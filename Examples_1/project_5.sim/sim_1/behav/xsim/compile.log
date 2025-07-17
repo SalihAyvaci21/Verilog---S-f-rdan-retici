@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado Project/project_5/project_5.srcs/sources_1/new/Project_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Examples_1
+ERROR: [VRFC 10-2989] 'sum3' is not declared [C:/Vivado Project/project_5/project_5.srcs/sources_1/new/Project_5.v:19]
+ERROR: [VRFC 10-8530] module 'Examples_1' is ignored due to previous errors [C:/Vivado Project/project_5/project_5.srcs/sources_1/new/Project_5.v:4]
