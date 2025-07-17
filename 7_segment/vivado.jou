@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Jul  7 12:34:21 2025
+# Process ID: 12128
+# Current directory: C:/Vivado Project/7_segment
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18356 C:\Vivado Project\7_segment\7_segment.xpr
+# Log file: C:/Vivado Project/7_segment/vivado.log
+# Journal file: C:/Vivado Project/7_segment\vivado.jou
+# Running On: DESKTOP-NP8MBRU, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 2, Host memory: 8463 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Vivado Project/7_segment/7_segment.xpr}
